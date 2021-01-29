@@ -2,6 +2,8 @@
 
 🎨  A simple blog responsive.
 
+<img src="https://media4.giphy.com/media/tR022Qc06CTpld0KcC/giphy.gif"/>
+
 ## 🕹 Test here
 
 https://joao099.github.io/flex-blog/
