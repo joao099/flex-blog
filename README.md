@@ -20,7 +20,7 @@ or download the zip from the green button at the beginning of the repository
 
 <img src="https://i.ibb.co/3mLnKMH/clone.png" alt="Download zip" border="0">
 
-<img src="https://ibb.co/D52Sz4r" alt="Download zip" border="0">
+<img src="https://i.ibb.co/BqMScLn/clone-zip-1.png" alt="Download zip" border="0">
 
 ## 🚀 Contribution
 
