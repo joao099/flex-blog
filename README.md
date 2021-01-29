@@ -2,7 +2,7 @@
 
 🎨  A simple blog responsive.
 
-<img src="https://media4.giphy.com/media/tR022Qc06CTpld0KcC/giphy.gif"/>
+<img src="https://media4.giphy.com/media/tR022Qc06CTpld0KcC/giphy.gif" width="710" height="545"/>
 
 ## 🕹 Test here
 
