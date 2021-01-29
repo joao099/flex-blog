@@ -1,6 +1,6 @@
 # FlexBlog
 
-🎨 A simple blog responsive.
+🎨  A simple blog responsive.
 
 ## 🕹 Test here
 
