@@ -1,4 +1,4 @@
-# Draw
+# FlexBlog
 
 🎨 A simple blog responsive.
 
