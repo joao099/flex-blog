@@ -24,6 +24,14 @@ or download the zip from the green button at the beginning of the repository
 
 <img src="https://i.ibb.co/BqMScLn/clone-zip-1.png" alt="Download zip" border="0">
 
+## 🗃 Release history
+
+- 0.1.0
+  - Project finalized and studying the possibility of adding new resources
+  - The first suitable launch
+- 0.0.1
+  - Work in progress
+
 ## 🚀 Contribution
 
 1. Make the _fork_ of the project (<https://github.com/joao099/flex-blog/fork>)
